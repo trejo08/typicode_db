@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "fullname": "full name 1",
+      "email": "email1@dominio.com",
+      "token": "token1",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "fullname": "full name 2",
+      "email": "email2@dominio.com",
+      "token": "token2",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password3",
+      "fullname": "full name 3",
+      "email": "email3@dominio.com",
+      "token": "token3",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "password4",
+      "fullname": "full name 4",
+      "email": "email4@dominio.com",
+      "token": "token4",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "password5",
+      "fullname": "full name 5",
+      "email": "email5@dominio.com",
+      "token": "token5",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "password6",
+      "fullname": "full name 6",
+      "email": "email6@dominio.com",
+      "token": "token6",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "password": "password7",
+      "fullname": "full name 7",
+      "email": "email7@dominio.com",
+      "token": "token7",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "password": "password8",
+      "fullname": "full name 8",
+      "email": "email8@dominio.com",
+      "token": "token8",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "password": "password9",
+      "fullname": "full name 9",
+      "email": "email9@dominio.com",
+      "token": "token9",
+      "roles": {
+        "write": true
+      }
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "password": "password10",
+      "fullname": "full name 10",
+      "email": "email10@dominio.com",
+      "token": "token10",
+      "roles": {
+        "write": true
+      }
+    }
+  ]
+}
